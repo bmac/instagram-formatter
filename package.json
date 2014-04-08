@@ -1,0 +1,30 @@
+{
+  "name": "instagram-formatter",
+  "version": "1.0.0",
+  "description": "Format instagram text with proper html link tag link on username, hashtag, and url",
+  "license": "MIT",
+  "main": "instagram-formatter.js",
+  "repository": "bmac/instagram-formatter",
+  "author": {
+    "name": "bmac"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "instagram-formatter.js"
+  ],
+  "keywords": [
+    "instagram",
+    "format",
+    "link",
+    "username",
+    "hashtag"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
