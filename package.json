@@ -1,6 +1,6 @@
 {
   "name": "instagram-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format instagram text with proper html link tag link on username, hashtag, and url",
   "license": "MIT",
   "main": "instagram-formatter.js",

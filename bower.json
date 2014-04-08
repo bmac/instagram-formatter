@@ -1,6 +1,6 @@
 {
   "name": "instagram-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format instagram text with proper html link tag on username, hashtag, and url",
   "main": "instagram-formatter.js",
   "keywords": [
